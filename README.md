@@ -1,6 +1,8 @@
 # audiobookrenamer
 An app to help rename audiobooks to a nicer format
 
+Latest release avaialable here - https://github.com/8bithooker/audiobookrenamer/releases
+
 
 The app can be installed per-user or for the entire system. There are no special requirements needed.
 
